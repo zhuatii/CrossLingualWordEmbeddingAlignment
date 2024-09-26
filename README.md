@@ -4,3 +4,4 @@
 - [vars](/vars/) contains the intermittent variables that are stored using joblib for ease of computation and replication of results.
 - [data](/data/) contains the text files with the English-Hindi text pairs.
 - [Embeddings](/Embeddings/) is the folder where the pre-trained models from [fasttext](https://fasttext.cc/docs/en/pretrained-vectors.html) are downloaded to and accessed from. For more details on the execution of the code and to load these model, refer to the folder's README file.
+- [requirements.txt](requirements.txt) contains the packages and the exact versions used in the project. These could be installed in the virtual environment to run the main code.
