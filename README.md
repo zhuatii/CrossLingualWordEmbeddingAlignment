@@ -1,5 +1,7 @@
 # Cross-Lingual Word Embedding Alignment
 
+_It is recommended to clone the repository locally, to maintain the file structure and requirements. Download the embedding models and save them in the embeddings folder. See the directory for more information._
+
 - [Main.ipynb](Main.ipynb) contains the jupyter notebook where all the code implementations with descriptions are available. 
 - [vars](/vars/) contains the intermittent variables that are stored using joblib for ease of computation and replication of results.
 - [data](/data/) contains the text files with the English-Hindi text pairs.
